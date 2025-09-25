@@ -28,8 +28,8 @@ layers:
   - ']'
   - F12
   - {type: held}
-  - '!'
-  - '@'
+  - BT CLR ALL
+  - BT NXT
   - '#'
   - $
   - '%'
@@ -42,7 +42,7 @@ layers:
   - {t: ▽, type: trans}
   - EP TOG
   - EP OFF
-  - RGB OFF
+  - EP ON
   - RGB TOG
   - '}'
   - {t: ▽, type: trans}
